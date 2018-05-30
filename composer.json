@@ -1,0 +1,15 @@
+{
+  "name": "p35/composer_bug_test",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "convertio/convertio-php": "v0.4"
+  }
+}
